@@ -1,6 +1,6 @@
 # air
 
-Air is a web framework written in Go (Golang) based on [Gin](https://github.com/gin-gonic/gin), [GORM](https://github.com/mongodb/mongo-go-driver).
+Air is a web framework written in Go (Golang) based on [Gin](https://github.com/gin-gonic/gin), [GORM](https://gorm.io/index.html).
 
 Example Repo: [Golang Gin Boilerplate](https://github.com/sohel1999/golang-gin-boilerplate)
 
